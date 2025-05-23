@@ -5,15 +5,15 @@ Welcome to the webpage of **Cryptographic Proofs Techniques** this is a **PhD-le
 The course is arranged as a series of seminars. Each seminar will be led by a designated speaker who will curate relevant resources, structure the session, and facilitate engaging discussions. These seminars are designed to be highly interactive, encouraging respectful collaboration and the exchange of ideas among participants. 
 
 ## Course Calendar
-All seminars are held on **DAY 14:00-16:30**, unless otherwise specified; are *onlive* (i.e., live + online) at this [zoom link](https://chalmers.zoom.us/j/61632716053).
+All seminars are *onlive* (i.e., live + online) at this [zoom link](https://chalmers.zoom.us/j/61632716053).
 
 ### Schedule
 Date | Speaker | Topic | Handout | Other Resources 
 ---|---|---|---| --- 
-May 26  | Lucia | Tail bounds | [Tail_Bounds](Tail_Bounds.pdf)  [Tail_Bounds_Proofs](Tail%20Bound%20Proofs.pdf)| [Bennett's_and_Berstain_Inequality](Bennett's%20and%20Berstain%20Inequality.pdf) [Hoeffding's_Inequality](Hoeffding's%20Inequality.pdf) [Chapter_Tail_Bounds](Introduction%20to%20Probability%20for%20Computing%20-%20Chapter%2018%20-%20Tail%20Bounds.pdf)
-June 2 | Hanna | Forking lemma |
-June 11 | Adrian | iO powered proofs / impossibility results in iO|
-June 16 | Elena | Schwartz-Zippel Lemma | [handout]() | [pedagogical](https://en.m.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma) 
+**May 26, 08:30-10:00** | Lucia | Tail bounds | [Tail_Bounds](Tail_Bounds.pdf)  [Tail_Bounds_Proofs](Tail%20Bound%20Proofs.pdf)| [Bennett's_and_Berstain_Inequality](Bennett's%20and%20Berstain%20Inequality.pdf) [Hoeffding's_Inequality](Hoeffding's%20Inequality.pdf) [Chapter_Tail_Bounds](Introduction%20to%20Probability%20for%20Computing%20-%20Chapter%2018%20-%20Tail%20Bounds.pdf)
+**June 2, 10:00-11:45** | Hanna | Forking lemma |
+**June 11, 10:00-11:45** | Adrian | iO powered proofs / impossibility results in iO|
+?? | Elena | Schwartz-Zippel Lemma | [handout]() | [pedagogical](https://en.m.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma) 
 
 
 ## List of Topics
