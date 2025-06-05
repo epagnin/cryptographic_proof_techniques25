@@ -38,6 +38,7 @@ Date | Speaker | Topic | Handout | Other Resources
 16. Meta-Reductions
 17. Compression Arguments
 18. PAC learning of NC0 circuits
+19. Computational Models (ITMs, vs Circuits, vs Algorithms)
 
 [Gol 08] Oded Goldreich -- Computational Complexity: A Conceptual Perspective (Can be borrow in Christoph's Office)
 
