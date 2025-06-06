@@ -12,7 +12,7 @@ Date | Speaker | Topic | Handout | Other Resources
 ---|---|---|---| --- 
 **May 26, 08:30-10:00** | Lucia | Tail bounds | [Tail_Bounds](Tail_Bounds.pdf)  [Tail_Bounds_Proofs](Tail%20Bound%20Proofs.pdf)| [Bennett's_and_Berstain_Inequality](Bennett's%20and%20Berstain%20Inequality.pdf) [Hoeffding's_Inequality](Hoeffding's%20Inequality.pdf) [Chapter_Tail_Bounds](Introduction%20to%20Probability%20for%20Computing%20-%20Chapter%2018%20-%20Tail%20Bounds.pdf)
 **June 2, 10:00-11:45** | Hanna | Forking lemma | [Forking Lemma](Forking_Lemma.pdf) | [PS96](https://www.di.ens.fr/david.pointcheval/Documents/Papers/1996_eurocrypt.pdf), [BN06](https://dl.acm.org/doi/pdf/10.1145/1180405.1180453), [BCCGP16](https://ora.ox.ac.uk/objects/uuid:2f919864-a097-48ce-9a28-2b9dc3e6382d/files/mda3d5f58ddbc3c92580ccda9599d3179), [BBBPWM18](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8418611)
-**June 11, 10:00-11:45** | Adrian | iO powered proofs / impossibility results in iO| | 
+**June 11, 10:00-11:45** | Adrian | iO powered proofs / impossibility results in iO| [iO](iO/) | 
 **June 17 10:00-11:45** | Hanna | Algebraic Group Model |  |
 **July 8, 10:00-11:45** | Leonardo |  |  |
 **September ??** | Lucia | Schwartz-Zippel Lemma | [handout]() | [pedagogical](https://en.m.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma) 
