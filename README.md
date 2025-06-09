@@ -40,8 +40,8 @@ Date | Speaker | Topic | Handout | Other Resources
 18. PAC learning of NC0 circuits
 19. Computational Models (ITMs, vs Circuits, vs Algorithms) [Chapter 1.2, Gol08](https://www.wisdom.weizmann.ac.il/~/oded/CC/r1.pdf) also [Chapter 5.2, Wig 19](https://www.math.ias.edu/files/Book-online-Aug0619.pdf#subsection.5.2)
 
-[Gol 08] Oded Goldreich -- Computational Complexity: A Conceptual Perspective (Can be borrow in Christoph's Office)
-[Wig 19] Avi Wigderson -- Mathematics and Computation
+- [Gol 08] Oded Goldreich -- Computational Complexity: A Conceptual Perspective (Can be borrow in Christoph's Office)
+- [Wig 19] Avi Wigderson -- Mathematics and Computation (Can be borrow in Christoph's Office)
 
 ## Seminar Structure
 The designated speaker is in charge of the seminar, booking rooms, leading the conversation.
