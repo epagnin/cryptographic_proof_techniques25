@@ -16,8 +16,8 @@ Date | Speaker | Topic | Handout | Other Resources
 **June 27 10:00-11:45** | Hanna | Algebraic Group Model | [AGM](AGM/AGM.pdf) | [FKL19](https://eprint.iacr.org/2017/620.pdf), [Sho97](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5d9723e30c1eabd31a15a1010c1c87ab1ff13523), [Mau05](https://crypto.ethz.ch/publications/files/Maurer05.pdf)
 **July 10, 10:00-11:45** | Leonardo | "One-More" Reductions | [handout](OM_reductions.pdf) | see references in handout
 **September 29, 13:00-15:00** | Lucia | Schwartz-Zippel Lemma | [handout]() | [pedagogical](https://en.m.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma) 
-**October ??,** | Adrian | Barrington Theorem | [handout]() | references
-**October ??,** | ?? | ?? | [handout]() | references
+**October 28, 14:30-16:30** | Adrian | Barrington Theorem | [handout]() | references
+**November 11, 13:00-15:00** | Leonardo | Random Self-Reductions | [handout]() | [main paper](https://arxiv.org/pdf/2202.13810)
 
 
 
