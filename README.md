@@ -15,7 +15,7 @@ Date | Speaker | Topic | Handout | Other Resources
 **June 24, 14:00-15:30** | Adrian | iO powered proofs / impossibility results in iO| [iO](iO/) | [Barak et al Impossibility Result](https://www.iacr.org/archive/crypto2001/21390001.pdf)
 **June 27 10:00-11:45** | Hanna | Algebraic Group Model | [AGM](AGM/AGM.pdf) | [FKL19](https://eprint.iacr.org/2017/620.pdf), [Sho97](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5d9723e30c1eabd31a15a1010c1c87ab1ff13523), [Mau05](https://crypto.ethz.ch/publications/files/Maurer05.pdf)
 **July 10, 10:00-11:45** | Leonardo | "One-More" Reductions | [handout](OM_reductions.pdf) | see references in handout
-**September 29, 13:00-15:00** | Lucia | Schwartz-Zippel Lemma | [handout]() | [pedagogical](https://en.m.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma) 
+**September 29, 13:00-15:00** | Lucia | Schwartz-Zippel Lemma | [Schwartz-Zippel Lemma](SZ_lemma/SZ_lemma.pdf) | [Wikipedia](https://en.m.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma), [Zip79](https://www.cecm.sfu.ca/~mmonagan/teaching/TopicsinCA17/zippel79.pdf), [Sch80](https://dl.acm.org/doi/pdf/10.1145/322217.322225)
 **October 28, 14:30-16:30** | Adrian | Barrington Theorem | [handout]() | references
 **November 11, 13:00-15:00** | Leonardo | Random Self-Reductions | [handout]() | [main paper](https://arxiv.org/pdf/2202.13810)
 
