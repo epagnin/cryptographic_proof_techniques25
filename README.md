@@ -18,6 +18,8 @@ Date | Speaker | Topic | Handout | Other Resources
 **September 29, 13:00-15:00** | Lucia | Schwartz-Zippel Lemma | [Schwartz-Zippel Lemma](SZ_lemma/SZ_lemma.pdf) | [Wikipedia](https://en.m.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma), [Zip79](https://www.cecm.sfu.ca/~mmonagan/teaching/TopicsinCA17/zippel79.pdf), [Sch80](https://dl.acm.org/doi/pdf/10.1145/322217.322225)
 **October 28, 14:30-16:30** | Adrian | Barrington Theorem | [handout]() | references
 **November 11, 13:00-15:00** | Leonardo | Random Self-Reductions | [handout]() | [main paper](https://arxiv.org/pdf/2202.13810)
+**December 1, 13:00-15:00** | Tejas | Fiat-Shamir & Fischlin Transforms | [handout] | [main paper]
+
 
 
 
