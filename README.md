@@ -16,7 +16,7 @@ Date | Speaker | Topic | Handout | Other Resources
 **June 27 10:00-11:45** | Hanna | Algebraic Group Model | [AGM](AGM/AGM.pdf) | [FKL19](https://eprint.iacr.org/2017/620.pdf), [Sho97](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5d9723e30c1eabd31a15a1010c1c87ab1ff13523), [Mau05](https://crypto.ethz.ch/publications/files/Maurer05.pdf)
 **July 10, 10:00-11:45** | Leonardo | "One-More" Reductions | [handout](OM_reductions.pdf) | see references in handout
 **September 29, 13:00-15:00** | Lucia | Schwartz-Zippel Lemma | [SZ Lemma](SZ_lemma/SZ_lemma.pdf), [SZ_Lemma_Presentation](SZ_lemma/Schwartz_Zippel_Lemma_presentation.pdf) | [Wikipedia](https://en.m.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma), [Zip79](https://www.cecm.sfu.ca/~mmonagan/teaching/TopicsinCA17/zippel79.pdf), [Sch80](https://dl.acm.org/doi/pdf/10.1145/322217.322225)
-**October 28, 14:30-16:30** | Adrian | Barrington Theorem | [handout]() | references
+**October 28, 14:30-16:30** | Adrian | Barrington Theorem | [Barrington's theorem](Barrington-theorem/notes.md) | [Paper](Barrington-theorem/compact-version.pdf)
 **November 11, 13:00-15:00** | Leonardo | Random Self-Reductions | [handout]() | [main paper](https://arxiv.org/pdf/2202.13810)
 **December 1, 13:00-15:00** | Tejas | Fiat-Shamir & Fischlin Transforms | [handout] | [main paper]
 
