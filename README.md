@@ -17,7 +17,7 @@ Date | Speaker | Topic | Handout | Other Resources
 **July 10, 10:00-11:45** | Leonardo | "One-More" Reductions | [handout](OM_reductions.pdf) | see references in handout
 **September 29, 13:00-15:00** | Lucia | Schwartz-Zippel Lemma | [SZ Lemma](SZ_lemma/SZ_lemma.pdf), [SZ_Lemma_Presentation](SZ_lemma/Schwartz_Zippel_Lemma_presentation.pdf) | [Wikipedia](https://en.m.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma), [Zip79](https://www.cecm.sfu.ca/~mmonagan/teaching/TopicsinCA17/zippel79.pdf), [Sch80](https://dl.acm.org/doi/pdf/10.1145/322217.322225)
 **October 28, 14:30-16:30** | Adrian | Barrington Theorem | [Barrington's theorem](Barrington-theorem/notes.md) | [Paper](Barrington-theorem/compact-version.pdf)
-**November 25, 15:00-16:30** | Leonardo | Random Self-Reductions | [Random self reducibility](random-self-reduce/rsr.pdf) | [Paper1](https://arxiv.org/pdf/2202.13810),  [Paper2](http://cs-www.cs.yale.edu/homes/jf/FF.pdf)
+**November 25, 15:00-16:30** | Leonardo | Random Self-Reductions | [Random self reducibility](random-self-reduce/rsr.pdf), [slides](random-self-reduce/rsr_slides.pdf) | [Paper1](https://arxiv.org/pdf/2202.13810),  [Paper2](http://cs-www.cs.yale.edu/homes/jf/FF.pdf)
 **December 16, 15:00-17:00** | Tejas | Fiat-Shamir & Fischlin Transforms | [handout] | [main paper]
 
 
